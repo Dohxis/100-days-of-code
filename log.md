@@ -34,3 +34,11 @@ Commit [fa5f2e8](https://github.com/Dohxis/Portum/commit/fa5f2e8dc57940e48866a22
 
 **Link(s) to work**<br />
 Commits [00066f1](https://github.com/Dohxis/Portum/commit/00066f1af2ac5a1e4a13f9215458c34dd651e99d) and [22c9b9f](https://github.com/Dohxis/Portum/commit/22c9b9fab3000cce6891d04ab1ea67c9996c8e5e)
+
+### Day 5: January 09, Monday
+
+**Today's Progress**<br /> Have been working on a new map.
+**Thoughts**<br /> I need new images and to fi x a lot of new bugs.
+
+**Link(s) to work**<br />
+Commit [af510d2](https://github.com/Dohxis/Portum/commit/af510d2558f2aa795f06ef0c38f7ab1fdaa0cef8)
