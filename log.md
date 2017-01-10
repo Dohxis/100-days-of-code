@@ -42,3 +42,11 @@ Commits [00066f1](https://github.com/Dohxis/Portum/commit/00066f1af2ac5a1e4a13f9
 
 **Link(s) to work**<br />
 Commit [af510d2](https://github.com/Dohxis/Portum/commit/af510d2558f2aa795f06ef0c38f7ab1fdaa0cef8)
+
+### Day 6: January 09, Tuesday
+
+**Today's Progress**<br /> Fixed lots of small bugs.
+**Thoughts**<br /> Now I am ready to build the map and continue my job.
+
+**Link(s) to work**<br />
+Commit [40838e4](https://github.com/Dohxis/Portum/commit/40838e47d93b01de4cf8aa6d8df7b7998cf4ee2d)
