@@ -50,3 +50,11 @@ Commit [af510d2](https://github.com/Dohxis/Portum/commit/af510d2558f2aa795f06ef0
 
 **Link(s) to work**<br />
 Commit [40838e4](https://github.com/Dohxis/Portum/commit/40838e47d93b01de4cf8aa6d8df7b7998cf4ee2d)
+
+### Day 7: January 10, Wednesday
+
+**Today's Progress**<br /> Made lots of improvments on joinCity page.
+**Thoughts**<br /> Now I am happy with this page and I can move to other places to work on.
+
+**Link(s) to work**<br />
+Commit [df796ad](https://github.com/Dohxis/Portum/commit/df796ad88872735c36f729b5573a9c570c82f332)
