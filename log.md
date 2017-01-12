@@ -61,3 +61,12 @@ Commit [40838e4](https://github.com/Dohxis/Portum/commit/40838e47d93b01de4cf8aa6
 
 **Link(s) to work**<br />
 Commit [df796ad](https://github.com/Dohxis/Portum/commit/df796ad88872735c36f729b5573a9c570c82f332)
+
+### Day 8: January 11, Thursday
+
+**Today's Progress**: Added an ability to travel.
+
+**Thoughts**: Map is done for now. I am relaly happy to see everything working.
+
+**Link(s) to work**<br />
+Commit [0d51f51](https://github.com/Dohxis/Portum/commit/0d51f51b4872661e696937e2e61d80e8b69f7edc)
