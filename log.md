@@ -70,3 +70,12 @@ Commit [df796ad](https://github.com/Dohxis/Portum/commit/df796ad88872735c36f729b
 
 **Link(s) to work**<br />
 Commit [0d51f51](https://github.com/Dohxis/Portum/commit/0d51f51b4872661e696937e2e61d80e8b69f7edc)
+
+### Day 9: January 12, Friday
+
+**Today's Progress**: Started to work on items.
+
+**Thoughts**: Started a new thing and there is lots to do. Designing a new table tooks more time than I though!  
+
+**Link(s) to work**<br />
+Commit [0500251](https://github.com/Dohxis/Portum/commit/0500251e96d42aa2de470e4f3f6172e9211585a8)
