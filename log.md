@@ -44,7 +44,7 @@ Commits [00066f1](https://github.com/Dohxis/Portum/commit/00066f1af2ac5a1e4a13f9
 **Link(s) to work**<br />
 Commit [af510d2](https://github.com/Dohxis/Portum/commit/af510d2558f2aa795f06ef0c38f7ab1fdaa0cef8)
 
-### Day 6: January 09, Tuesday
+### Day 6: January 10, Tuesday
 
 **Today's Progress**: Fixed lots of small bugs.
 
@@ -53,7 +53,7 @@ Commit [af510d2](https://github.com/Dohxis/Portum/commit/af510d2558f2aa795f06ef0
 **Link(s) to work**<br />
 Commit [40838e4](https://github.com/Dohxis/Portum/commit/40838e47d93b01de4cf8aa6d8df7b7998cf4ee2d)
 
-### Day 7: January 10, Wednesday
+### Day 7: January 11, Wednesday
 
 **Today's Progress**: Made lots of improvments on joinCity page.
 
@@ -62,7 +62,7 @@ Commit [40838e4](https://github.com/Dohxis/Portum/commit/40838e47d93b01de4cf8aa6
 **Link(s) to work**<br />
 Commit [df796ad](https://github.com/Dohxis/Portum/commit/df796ad88872735c36f729b5573a9c570c82f332)
 
-### Day 8: January 11, Thursday
+### Day 8: January 12, Thursday
 
 **Today's Progress**: Added an ability to travel.
 
@@ -71,7 +71,7 @@ Commit [df796ad](https://github.com/Dohxis/Portum/commit/df796ad88872735c36f729b
 **Link(s) to work**<br />
 Commit [0d51f51](https://github.com/Dohxis/Portum/commit/0d51f51b4872661e696937e2e61d80e8b69f7edc)
 
-### Day 9: January 12, Friday
+### Day 9: January 13, Friday
 
 **Today's Progress**: Started to work on items.
 
@@ -79,3 +79,21 @@ Commit [0d51f51](https://github.com/Dohxis/Portum/commit/0d51f51b4872661e696937e
 
 **Link(s) to work**<br />
 Commit [0500251](https://github.com/Dohxis/Portum/commit/0500251e96d42aa2de470e4f3f6172e9211585a8)
+
+### Day 10: January 14, Saturday
+
+**Today's Progress**: Made a system to simple add new items.
+
+**Thoughts**: Was a hard task, could not finish till the midnight.
+
+**Link(s) to work**<br />
+Commit [ce910cb](https://github.com/Dohxis/Portum/commit/ce910cb87a1e78dd28144cfb7b385c58220d5401)
+
+### Day 11: January 15, Sunday
+
+**Today's Progress**: Added most of the items.
+
+**Thoughts**: With my system is pretty simple task to add a new item to the game!  
+
+**Link(s) to work**<br />
+Commit [4424970](https://github.com/Dohxis/Portum/commit/442497029da1306bd2f1b1c317b1d21730443dce)
