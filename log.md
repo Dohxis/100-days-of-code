@@ -97,3 +97,12 @@ Commit [ce910cb](https://github.com/Dohxis/Portum/commit/ce910cb87a1e78dd28144cf
 
 **Link(s) to work**<br />
 Commit [4424970](https://github.com/Dohxis/Portum/commit/442497029da1306bd2f1b1c317b1d21730443dce)
+
+### Day 12: January 16, Monday
+
+**Today's Progress**: Started to work on item fixer!
+
+**Thoughts**: Things started to go quite slow. But still managed to add something new.
+
+**Link(s) to work**<br />
+Commit [da3cd7d](https://github.com/Dohxis/Portum/commit/da3cd7d267f53525a9f70aec412525a0c3031012)
