@@ -106,3 +106,9 @@ Commit [4424970](https://github.com/Dohxis/Portum/commit/442497029da1306bd2f1b1c
 
 **Link(s) to work**<br />
 Commit [da3cd7d](https://github.com/Dohxis/Portum/commit/da3cd7d267f53525a9f70aec412525a0c3031012)
+
+### Day 13: January 17, Tuesday
+
+**Today's Progress**: Started to work on a new project, got everything working and enviroment set up. 
+
+**Thoughts**: Things went so slow, that I managed only to write several lines of code!
