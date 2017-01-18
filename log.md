@@ -112,3 +112,12 @@ Commit [da3cd7d](https://github.com/Dohxis/Portum/commit/da3cd7d267f53525a9f70ae
 **Today's Progress**: Started to work on a new project, got everything working and enviroment set up. 
 
 **Thoughts**: Things went so slow, that I managed only to write several lines of code!
+
+### Day 14: January 18, Friday
+
+**Today's Progress**: Created a new repo for my new project and messed with a code.
+
+**Thoughts**: ASP.net still looks wierd, but I am getting use to it.
+
+**Link(s) to work**<br />
+Github [repository](https://github.com/Dohxis/gistreader)
