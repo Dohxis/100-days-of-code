@@ -129,7 +129,7 @@ Github [repository](https://github.com/Dohxis/gistreader)
 **Thoughts**: A new big project I am really excited about!
 
 **Link(s) to work**<br />
-None** * **
+None*
 
 ### Day 16: January 20, Friday
 
@@ -138,7 +138,7 @@ None** * **
 **Thoughts**: It is quite hard to learn lots of tools just at once.
 
 **Link(s) to work**<br />
-None** * **
+None*
 
 ### Day 17: January 21, Saturday
 
@@ -147,6 +147,6 @@ None** * **
 **Thoughts**: This was a simple task that I am use to.
 
 **Link(s) to work**<br />
-None** * **
+None*
 
-** * ** We do not use Github and a project only goes public after release!
+\* We do not use Github and a project only goes public after release!
