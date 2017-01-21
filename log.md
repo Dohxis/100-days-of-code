@@ -113,7 +113,7 @@ Commit [da3cd7d](https://github.com/Dohxis/Portum/commit/da3cd7d267f53525a9f70ae
 
 **Thoughts**: Things went so slow, that I managed only to write several lines of code!
 
-### Day 14: January 18, Friday
+### Day 14: January 18, Wednesday
 
 **Today's Progress**: Created a new repo for my new project and messed with a code.
 
@@ -121,3 +121,32 @@ Commit [da3cd7d](https://github.com/Dohxis/Portum/commit/da3cd7d267f53525a9f70ae
 
 **Link(s) to work**<br />
 Github [repository](https://github.com/Dohxis/gistreader)
+
+### Day 15: January 19, Thursday
+
+**Today's Progress**: Started to work on a new project
+
+**Thoughts**: A new big project I am really excited about!
+
+**Link(s) to work**<br />
+None** * **
+
+### Day 16: January 20, Friday
+
+**Today's Progress**: Got familar with tools and code!
+
+**Thoughts**: It is quite hard to learn lots of tools just at once.
+
+**Link(s) to work**<br />
+None** * **
+
+### Day 17: January 21, Saturday
+
+**Today's Progress**: Improved several frontend things.
+
+**Thoughts**: This was a simple task that I am use to.
+
+**Link(s) to work**<br />
+None** * **
+
+** * ** We do not use Github and a project only goes public after release!
